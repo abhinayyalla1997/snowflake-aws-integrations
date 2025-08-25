@@ -15,7 +15,7 @@ This repository contains multiple projects demonstrating different ways of integ
   - Includes ETL job scripts, connection setup, and examples.
 
 - **s3-integration/**
-  - Placeholder folder for future implementation of S3 to Snowflake integration.
+  - Used Iam method
   - Currently contains only a README file.
 
 ---
