@@ -1,6 +1,3 @@
-# snowflake-aws-integrations
-This  repo includes integration of AWS cloud services with snowflake
-
 # AWS Snowflake Integration
 
 This repository contains multiple projects demonstrating different ways of integrating **AWS** services with **Snowflake**. Each folder is a standalone implementation with its own code, configuration, and README.
