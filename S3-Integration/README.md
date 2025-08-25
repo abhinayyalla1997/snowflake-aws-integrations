@@ -1,9 +1,3 @@
-
-title: 🔗 Snowflake and AWS S3 Integration Guide
-created at: Fri Aug 01 2025 11:25:14 GMT+0000 (Coordinated Universal Time)
-updated at: Wed Aug 20 2025 17:03:33 GMT+0000 (Coordinated Universal Time)
----
-
 # 🔗 Snowflake and AWS S3 Integration Guide
 
 ***
